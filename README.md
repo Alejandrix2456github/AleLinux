@@ -5,4 +5,6 @@ Use it at https://turbowarp.org/?project_url=cdn.jsdelivr.net/gh/Alejandrix2456g
 ## What if i wanna use it locally?
 You need to have Turbowarp Desktop installed becsuse Scratch dosen't support Custom Extensions
 you can download the M1 here: https://github.com/Alejandrix2456github/AleLinux/raw/refs/heads/main/AleLinux%20M1.sb3
-[The Logo!][https://github.com/Alejandrix2456github/AleLinux/blob/main/Logo.png]
+## Does it have a logo?
+ABSOLUTELY YES
+[The Logo!](https://github.com/Alejandrix2456github/AleLinux/blob/main/Logo.png)
