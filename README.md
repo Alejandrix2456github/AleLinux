@@ -7,4 +7,4 @@ You need to have Turbowarp Desktop installed becsuse Scratch dosen't support Cus
 you can download the M1 here: https://github.com/Alejandrix2456github/AleLinux/raw/refs/heads/main/AleLinux%20M1.sb3
 ## Does it have a logo?
 ABSOLUTELY YES
-[The Logo!](https://github.com/Alejandrix2456github/AleLinux/blob/main/Logo.png)
+![The Logo](https://github.com/Alejandrix2456github/AleLinux/blob/main/Logo.png)
